@@ -1,11 +1,23 @@
 ### Hi there, I'm Tashvik from Uttar Pradesh, India
 
-## I'm a Student, Developer, Businessman and a Designer
+## I'm a Student, Developer, Designer and a Businessman
 - **📖** Currently Studying for 12th Board Exams
 - **💻** I'm currently learning Python for automation and **🌐** IOT
 - **🧑‍🤝‍🧑** I’m looking to collaborate with other content creators
 - **⚡** Fun fact: I love to play **🎹** piano and dholak
 
 <!---- Add some spotify music and more ----->
+
 ### Connect with me:
-[![the_doer_guy | Instagram](https://camo.githubusercontent.com/c80f9763ed06d4ab9fbcc1a74b8b74cd95e4c7f82d3f1f70233994f236a0faeb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667)](https://instagram.com/the_doer_guy)
+
+[<img align="left" alt="the_doer_guy | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="tashvikb | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="tashvikb | Facebook" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="tashvikb | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[instagram]: https://www.instagram.com/the_doer_guy
+[twitter]: https://twitter.com/Tashvik2
+[facebook]: https://www.facebook.com/tashvikb
+[linkedin]: https://www.linkedin.com/in/tashvikb
