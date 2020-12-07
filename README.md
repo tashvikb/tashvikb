@@ -1,7 +1,7 @@
 
-### Hi there, I'm Tashvik from Uttar Pradesh, India
+## Hi there, I'm Tashvik from Uttar Pradesh, India
 
-## I'm a Student, Developer, Designer and a Businessman
+### I'm a Student, Developer, Designer and a Businessman
 - **📖** Currently Studying for 12th Board Exams
 - **💻** I'm currently learning Python for automation and **🌐** IOT
 - **🧑‍🤝‍🧑** I’m looking to collaborate with other content creators
@@ -9,7 +9,6 @@
 
 <!---- Add some spotify music and more ----->
 
-<br />
 
 ### Connect with me:
 
