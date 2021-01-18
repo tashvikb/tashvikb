@@ -3,9 +3,9 @@
 
 ### I'm a Student, Developer, Designer and a Businessman
 - **📖** Currently Studying for 12th Board Exams
-- **💻** I'm currently learning Python for automation and **🌐** IOT
+- **💻** I'm currently learning React and my main target is MERN stack
 - **🧑‍🤝‍🧑** I’m looking to collaborate with other content creators
-- **⚡** Fun fact: I love to play **🎹** piano and dholak
+- **⚡** Fun fact: I love to play **🎹** piano and Guitar
 
 <!---- Add some spotify music and more ----->
 
