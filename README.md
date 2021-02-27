@@ -1,4 +1,5 @@
 
+
 ## Hi there, I'm Tashvik from Uttar Pradesh, India
 
 ### I'm a Student, Developer, Designer and a Businessman
@@ -7,14 +8,26 @@
 - **🧑‍🤝‍🧑** I’m looking to collaborate with other content creators
 - **⚡** Fun fact: I love to play **🎹** piano and Guitar
 
+### What I made:
+##### In MERN:
+1. Recipe App --- [live view](https://recipe-app-tashvikb.herokuapp.com/) --- [github code](https://github.com/tashvikb/recipe-app)
+
+##### In HTML, CSS, JS
+1. Random Person --- [live view](https://random-person.netlify.app/) --- [github code](https://github.com/tashvikb/random-person)
+2. Thor of Asgard --- [live view](https://tashvikb.github.io/thorofasgard.github.io/) --- [github code](https://github.com/tashvikb/thorofasgard.github.io)
+
 <!---- Add some spotify music and more ----->
+
 
 
 ### Connect with me:
 
 [<img align="left" alt="the_doer_guy | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 [<img align="left" alt="tashvikb | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
 [<img align="left" alt="tashvikb | Facebook" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+
 [<img align="left" alt="tashvikb | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
