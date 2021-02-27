@@ -10,11 +10,12 @@
 
 ### What I made:
 ##### In MERN:
-1. Recipe App --- [live view](https://recipe-app-tashvikb.herokuapp.com/) --- [github code](https://github.com/tashvikb/recipe-app)
+1. 🍜 Recipe App --- [live view](https://recipe-app-tashvikb.herokuapp.com/) --- [github code](https://github.com/tashvikb/recipe-app)
+2. 🍕 LazyPizza --- (⌛ Comming Soon)
 
 ##### In HTML, CSS, JS
-1. Random Person --- [live view](https://random-person.netlify.app/) --- [github code](https://github.com/tashvikb/random-person)
-2. Thor of Asgard --- [live view](https://tashvikb.github.io/thorofasgard.github.io/) --- [github code](https://github.com/tashvikb/thorofasgard.github.io)
+1. 🧍Random Person --- [live view](https://random-person.netlify.app/) --- [github code](https://github.com/tashvikb/random-person)
+2. ⚡ Thor of Asgard --- [live view](https://tashvikb.github.io/thorofasgard.github.io/) --- [github code](https://github.com/tashvikb/thorofasgard.github.io)
 
 <!---- Add some spotify music and more ----->
 
