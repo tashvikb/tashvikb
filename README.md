@@ -1,5 +1,6 @@
 
 
+
 ## Hi there, I'm Tashvik from Uttar Pradesh, India
 
 ### I'm a Student, Developer, Designer and a Businessman
@@ -29,6 +30,10 @@
 
 [<img align="left" alt="tashvikb | Facebook" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
+[<img align="left" alt="tashvikb | Codepen" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]
+
+[<img align="left" alt="tashvikb | cssbattle" width="40px" src="https://pbs.twimg.com/profile_images/1114446136302084096/BIu19jPP_400x400.png" />][cssbattle]
+
 [<img align="left" alt="tashvikb | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -53,10 +58,18 @@
 <img align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 
+<br />
+<br />
+<br />
 
+<!---- Buy me a Coffee ---->
+[<img align="left" alt="tashvikb | Codepen" width="230px" src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-2.svg" />][buymeacoffee]
 <!---- Links ---->
 
 [instagram]: https://www.instagram.com/the_doer_guy
 [twitter]: https://twitter.com/Tashvik2
 [facebook]: https://www.facebook.com/tashvikb
 [linkedin]: https://www.linkedin.com/in/tashvikb
+[cssbattle]:https://cssbattle.dev/player/tashvikb
+[codepen]:https://codepen.io/tashvikb
+[buymeacoffee]:https://www.buymeacoffee.com/tashvikb
