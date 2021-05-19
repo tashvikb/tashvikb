@@ -20,7 +20,7 @@
 
 <!---- Add some spotify music and more ----->
 
-
+My 📷 Instagram Blog ---  🌐 [Instawala](https://www.instawala.xyz)
 
 ### Connect with me:
 
@@ -31,8 +31,6 @@
 [<img align="left" alt="tashvikb | Facebook" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 [<img align="left" alt="tashvikb | Codepen" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]
-
-[<img align="left" alt="tashvikb | Reddit" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
 
 [<img align="left" alt="tashvikb | cssbattle" width="40px" src="https://pbs.twimg.com/profile_images/1114446136302084096/BIu19jPP_400x400.png" />][cssbattle]
 
@@ -75,4 +73,3 @@
 [cssbattle]:https://cssbattle.dev/player/tashvikb
 [codepen]:https://codepen.io/tashvikb
 [buymeacoffee]:https://www.buymeacoffee.com/tashvikb
-[reddit]:https://www.reddit.com/user/tashvik
