@@ -4,9 +4,10 @@
 ## Hi there, I'm Tashvik from Uttar Pradesh, India
 
 ### I'm a Student, Developer, Designer and a Businessman
-- **📖** Currently Studying for 12th Board Exams
-- **💻** I'm currently learning React and my main target is MERN stack
-- **🧑‍🤝‍🧑** I’m looking to collaborate with other content creators
+- **📖** Completed Class 12th, skipping 1 year from study
+- **📈** Started Learning Data Analysis with Python
+- **💻** My main target is to master MERN stack
+- **🤝** I’m looking to collaborate with other content creators
 - **⚡** Fun fact: I love to play **🎹** piano and Guitar
 
 ### What I made:
@@ -19,6 +20,8 @@
 2. ⚡ Thor of Asgard --- [live view](https://tashvikb.github.io/thorofasgard.github.io/) --- [github code](https://github.com/tashvikb/thorofasgard.github.io)
 
 <!---- Add some spotify music and more ----->
+
+<br />
 
 My 📷 Instagram Blog ---  🌐 [Instawala](https://www.instawala.xyz)
 
@@ -63,6 +66,7 @@ My 📷 Instagram Blog ---  🌐 [Instawala](https://www.instawala.xyz)
 <br />
 
 <!---- Buy me a Coffee ---->
+
 [<img align="left" alt="tashvikb | Codepen" width="230px" src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-2.svg" />][buymeacoffee]
 <!---- Links ---->
 
