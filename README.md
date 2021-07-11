@@ -16,9 +16,10 @@
 2. 🍕 LazyPizza --- (⌛ Comming Soon)
 
 ##### In HTML, CSS, JS
-1. 🧍Random Person --- [live view](https://random-person.netlify.app/) --- [github code](https://github.com/tashvikb/random-person)
-2. ⚡ Thor of Asgard --- [live view](https://tashvikb.github.io/thorofasgard.github.io/) --- [github code](https://github.com/tashvikb/thorofasgard.github.io)
-3. 🪟 Windows 11 --- [live view](https://relaxed-brahmagupta-4ba40e.netlify.app/) --- [github code](https://github.com/tashvikb/windows-11)
+1. 🔥30 Days Javascript Challenge --- live view: ⌛ working --- [github code](https://github.com/tashvikb/30-days-js-challenge)
+2. 🧍Random Person --- [live view](https://random-person.netlify.app/) --- [github code](https://github.com/tashvikb/random-person)
+3. ⚡ Thor of Asgard --- [live view](https://tashvikb.github.io/thorofasgard.github.io/) --- [github code](https://github.com/tashvikb/thorofasgard.github.io)
+4. 🪟 Windows 11 --- [live view](https://relaxed-brahmagupta-4ba40e.netlify.app/) --- [github code](https://github.com/tashvikb/windows-11)
 
 <!---- Add some spotify music and more ----->
 
