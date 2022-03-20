@@ -4,11 +4,11 @@
 ## Hi there, I'm Tashvik from Uttar Pradesh, India
 
 ### I'm a Student, Developer, Designer and a Businessman
-- **📖** Completed Class 12th, skipping 1 year from study
-- **📈** Started Learning Data Analysis with Python
-- **💻** My main target is to master MERN stack
+- **📖** Studying in B.Com 2nd Year
+- **📈** Started Learning Next.js
+- **💻** My main target is to master MERN stack using Next.js
 - **🤝** I’m looking to collaborate with other content creators
-- **⚡** Fun fact: I love to play **🎹** piano and Guitar
+- **⚡** Fun fact: I love to play **🎹** piano
 
 ### What I made:
 ##### In MERN:
@@ -25,7 +25,7 @@
 
 <br />
 
-My 📷 Instagram Blog ---  🌐 [Instawala](https://www.instawala.xyz)
+My 📷 Comic Blog ---  🌐 [ComicStrange](https://www.comicstrange.com)
 
 ### Connect with me:
 
