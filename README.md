@@ -21,11 +21,9 @@
 3. ⚡ Thor of Asgard --- [live view](https://tashvikb.github.io/thorofasgard.github.io/) --- [github code](https://github.com/tashvikb/thorofasgard.github.io)
 4. 🪟 Windows 11 --- [live view](https://tb-windows-11.netlify.app) --- [github code](https://github.com/tashvikb/windows-11)
 
-<!---- Add some spotify music and more ----->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31feuoykztuhjks4bduamakl2vte&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31feuoykztuhjks4bduamakl2vte&redirect=true)
 
-<br />
-
-My 📷 Comic Blog ---  🌐 [ComicStrange](https://www.comicstrange.com)
+My 📷 Comic Blog ---  🌐 [ComicStrange](https://www.comicstrange.com) (Close Temporary)
 
 ### Connect with me:
 
