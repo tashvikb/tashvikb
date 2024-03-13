@@ -1,7 +1,11 @@
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vrindagupta6828/Vrindagupta6828/master/assest/hello.gif" alt="Hello Image"/>
+</p>
 
-## Hi there, I'm Tashvik from Uttar Pradesh, India
+
+<h1 align="center">Hi there 🤟🏻, I'm Tashvik Bansal</h1>
 
 ### I'm a Student, Developer, Designer and a Businessman
 - **📖** Studying in B.Com 2nd Year
