@@ -8,11 +8,11 @@
 <h1 align="center">Hi there 🤟🏻, I'm Tashvik Bansal</h1>
 
 ### I'm a Student, Developer, Designer and a Businessman
-- **📖** Studying in B.Com 2nd Year
-- **📈** Started Learning Next.js
-- **💻** My main target is to master MERN stack using Next.js
+- **📖** Completed Graduation in 2024
+- **📈** Mastering Javascript
+- **💻** My main target is to master MERN as a software engineer 
 - **🤝** I’m looking to collaborate with other content creators
-- **⚡** Fun fact: I love to play **🎹** piano
+- **🎁** Little bit of 3d artist as well (Blender)
 
 ### What I made:
 ##### In MERN:
@@ -64,6 +64,7 @@ My 📷 Comic Blog ---  🌐 [ComicStrange](https://www.comicstrange.com) (Close
 <img align="left" alt="C++" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
 <img align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+
 
 <br />
 <br />
